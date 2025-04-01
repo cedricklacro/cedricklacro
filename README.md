@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cedrick Lacro
+# 👋 Hi, I'm Cedrick
 
 I'm a recent Software Engineering diploma graduate with a background in **Industrial Engineering** and **Business Analysis**.
 
